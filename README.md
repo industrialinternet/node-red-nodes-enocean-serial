@@ -3,8 +3,8 @@ node-red-nodes-enocean-serial
 
 Node-RED EnOcean In &amp; Out nodes
 
-The node is based on the EnOcean serail protocol but only supports simple radio telegrams.
-It was tested on EnOcean USB 300 Gateway on Raspbery PI.
+The nodes use the EnOcean serial protocol but only supports simple radio telegrams.
+The nodes were tested using the EnOcean USB 300 Gateway on a Raspbery PI.
 
 // Input <br/> 
 The input supports the reception of radio telegrams only.
