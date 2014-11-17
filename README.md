@@ -1,5 +1,5 @@
-node-red-nodes-enocean-serial
-=============================
+node-red-enocean-serial-in-out
+==============================
 
 Node-RED EnOcean In &amp; Out nodes
 
